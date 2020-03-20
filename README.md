@@ -1,4 +1,4 @@
-# E-Commerce Marketing Key Performance Indicators Analysis
+# E-Commerce Marketing KPIs Analysis
 This is a repository for the class project of Introduction to Data Science in UCLA Extension.
 <img src="https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q" width="640" height="426"><br/>
 @photo by rupixen.com on Unsplash
@@ -8,12 +8,10 @@ E-commerce (electronic commerce) is the activity of electronically buying or sel
 [UCI Machine Learning Repository: Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
 ## Contents
 | File          | Description   | 
-| ------------- |:-------------:| 
+| ------------- | ------------- | 
 | Code_Ecommerce.R     | The codes of data analysis in R file | 
 | Technical Report.pdf | The formal report    |  
 | ecomfinal_df.csv     | The final dataset in csv format    | 
 | ecomoriginal_df.csv  | The original dataset in csv format | 
-<br/>Tool: R for codes and reports
-
 ## Author
 YuTzu (Marie) Chen-[GitHub](https://github.com/MarieChen27)
