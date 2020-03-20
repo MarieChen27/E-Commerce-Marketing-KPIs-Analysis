@@ -9,9 +9,11 @@ E-commerce (electronic commerce) is the activity of electronically buying or sel
 ## Contents
 | File          | Description   | 
 | ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      |  
+| Code_Ecommerce.R     | The codes of data analysis in R file | 
+| Technical Report.pdf | The formal report    |  
+| ecomfinal_df.csv     | The final dataset in csv format    | 
+| ecomoriginal_df.csv  | The original dataset in csv format | 
+<br/>Tool: R for codes and reports
 
 ## Author
 YuTzu (Marie) Chen-[GitHub](https://github.com/MarieChen27)
