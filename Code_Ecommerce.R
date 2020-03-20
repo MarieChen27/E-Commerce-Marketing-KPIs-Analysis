@@ -550,4 +550,6 @@ xtabsvm
 svmmisclass_error_rate <- sum(test_OnShop1$Revenue1 != predictionsvm) / nrow(test_OnShop1)*100
 #The misclassification error rate is 10.106%.
 
+#Export dataframe: OnShop1 to csv
+write.csv(OnShop1,"/Users/marie1227/Desktop/R/ecomfinal_df.csv", row.names = TRUE)
 
